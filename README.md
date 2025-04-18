@@ -1,6 +1,6 @@
 # CaseRec
 
-This is a PyTorch implementation for paper: Improving Sequential Recommenders through Counterfactual Augmentation of System Exposure
+This is a PyTorch implementation for SIGIR'25 paper: Improving Sequential Recommenders through Counterfactual Augmentation of System Exposure
 
 ### Data
 
